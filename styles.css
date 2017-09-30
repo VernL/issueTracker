@@ -1,0 +1,24 @@
+#input-form {
+    background-color: #e7e7e7;
+    padding:20px;
+    border-radius: 10px;
+
+}
+
+body {
+    background-color: #e7e7e7;
+}
+
+.container {
+    background-color: white;
+    border-radius: 10px;
+    margin-top:50px;
+}
+
+/*h1{*/
+    /*margin-left:50px;*/
+/*}*/
+
+legend {
+    font-weight: bold;
+}
